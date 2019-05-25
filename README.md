@@ -81,9 +81,7 @@ canvas1.create_window(270, 120, window=entry2)
 ```
 
 
-## Authors
 
-* **Aditi, Divya, Denrose, Pranjal** 
 
 
 ## Acknowledgments
